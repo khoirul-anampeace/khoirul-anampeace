@@ -17,21 +17,6 @@
 
 ---
 
-### 📊 Stats & Connections
-
-<div align="center">
-  <img src="https://github-profile-views.firebaseapp.com/?u=khoirul-anampeace" alt="Profile views" />
-</div>
-
-<div align="center">
-  <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/khoirulanampeace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoirulanampeace" height="30" width="40" /></a>
-  <a href="https://instagram.com/khoirul-anampeace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khoirul-anampeace" height="30" width="40" /></a>
-  <a href="https://x.com/khoirul-anampeace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khoirul-anampeace" height="30" width="40" /></a>
-</div>
-
----
-
 ### 💻 Languages & Tools:
 
 Set badget yang lebih modern dan terorganisir untuk menampilkan tech stack kamu yang sesungguhnya.
