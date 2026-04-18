@@ -10,7 +10,7 @@
 
 ### A bit about me:
 
-- 🔭 I'm currently exploring the **MERN & TALL stack** ecosystems, with a deep dive into **React.js & Next.js**.
+- 🔭 I'm currently working on <a href="olenkan.com">onlenkan.com</a>
 - 👯 I'm looking for opportunities to contribute to **open source** projects in frontend and fullstack development.
 - 💬 Ask me about **JavaScript, PHP, React, Next.js, Laravel, GraphQL, and Tailwind CSS**.
 - ⚡ Fun fact: I have a deep appreciation for neat code, intuitive design, and minimal aesthetics.
