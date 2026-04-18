@@ -33,18 +33,3 @@ Set badget yang lebih modern dan terorganisir untuk menampilkan tech stack kamu 
 <div align="left">
   <img src="https://img.shields.io/badge/Tools%20&%20Platforms-Git_GitHub_GitLab_Vercel_VS%20Code_Postman_PNPM-343A40?style=flat-square&logo=github" alt="Tools & Platforms" />
 </div>
-
----
-
-### ⚡ Coding Activity
-
-Widget koding yang diperbarui dengan tech stack yang relevan bagi kamu (React, Next.js, dll.) dan data proporsional yang koheren.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khoirul-anampeace&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoirul-anampeace&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoirul-anampeace&theme=tokyonight" alt="Activity Graph" />
-</div>
