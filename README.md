@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khoirul-anampeace/khoirul-anampeace/main/header.png" alt="Khoirul Anam Banner" width="100%">
-</div>
-
-# Assalamu'alaikum 🤝, Saya Khoirul Anam
+# Hello, I'am Khoirul Anam
 
 <p align="center">
   A detail-oriented Web Developer from Indonesia, focused on Frontend Engineering and creating clean, efficient web experiences.
