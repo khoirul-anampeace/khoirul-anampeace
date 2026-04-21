@@ -1,4 +1,4 @@
-# Hello, I'am Khoirul Anam
+# I'am Khoirul Anam
 
 <p align="center">
   A detail-oriented Web Developer from Indonesia, focused on Frontend Engineering and creating clean, efficient web experiences.
